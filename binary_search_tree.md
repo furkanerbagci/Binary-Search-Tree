@@ -11,3 +11,5 @@ Dengeli bölmek için root'umuzu orta elemandan seçiyoruz. Root=4 alıyoruz. B�
    * 2 -------7
    * 1--3 --- --- 6--8 
    * 0   --- --- 5--9 
+
+
